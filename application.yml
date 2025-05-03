@@ -1,0 +1,5 @@
+global:
+  message: Welcome to global MicroService Environment!!
+logging:
+  level:
+    root:INFO
